@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Malexion",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0",
+    "iterate-js": "^1.1.0",
+    "jsonwebtoken": "^7.1.9",
+    "morgan": "^1.7.0",
+    "serve-favicon": "^2.3.0",
+    "shelljs": "^0.7.8",
+    "socket.io": "^1.7.4",
+    "sqlite3": "^3.1.4"
+  }
+}

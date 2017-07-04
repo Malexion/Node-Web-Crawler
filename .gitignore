@@ -1,0 +1,10 @@
+/client/node_modules
+/server/node_modules
+/client/npm-debug.log*
+/client/.DS_STORE
+npm-debug.log*
+/client/yarn-error.log
+/client/test/*coverage
+/client/test/coverage*
+/client/.chrome
+/server/strategies/gh.js
